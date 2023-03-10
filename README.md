@@ -4,7 +4,7 @@
   <tbody border="none">
     <tr>
       <td>
-        <img src="https://avatars.githubusercontent.com/u/44131280?v=4" width='200' height = '200'>
+        <img src="https://drive.google.com/file/d/111aBRTvV8hVMXOmhOKPt3lFSk38Pn6PP/view?usp=sharing" width='200' height = '200'>
       </td>
       <td>
         <h2> Sethu Raman Omanakuttan </h2>
