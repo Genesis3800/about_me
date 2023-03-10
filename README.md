@@ -4,8 +4,7 @@
   <tbody border="none">
     <tr>
       <td>
-        <img src="![Screenshot 2023-03-10 092325](https://user-images.githubusercontent.com/56264430/224220454-0df06476-4ea8-4f40-8255-88f1cb4ab89d.png)
-" width='200' height = '200'>
+        <img src="https://user-images.githubusercontent.com/56264430/224220454-0df06476-4ea8-4f40-8255-88f1cb4ab89d.png" width='200' height = '200'>
       </td>
       <td>
         <h2> Priyank Gupta </h2>
